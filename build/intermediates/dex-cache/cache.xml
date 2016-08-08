@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rj-mac/Downloads/AndroidMQTTDemo-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="/Users/rj-mac/Downloads/AndroidMQTTDemo-master/app/build/intermediates/pre-dexed/debug/classes-57b7e3bf96534b0be12d6411eb9e0db88c55a6e2.jar" />
+    </item>
+    <item
+        jar="/Users/rj-mac/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.0.2/11752d3f24d1a9deda4533a7ca18d8496417ceeb/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="/Users/rj-mac/Downloads/AndroidMQTTDemo-master/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.0.2-cf76075d8baf137107abd2575e3ea9631e6f38e2.jar" />
+    </item>
+    <item
+        jar="/Users/rj-mac/Downloads/AndroidMQTTDemo-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="/Users/rj-mac/Downloads/AndroidMQTTDemo-master/app/build/intermediates/pre-dexed/debug/classes-1c9f24e8d9f3a0dbf77fbb0a26f60371f7f53446.jar" />
+    </item>
+    <item
+        jar="/Users/rj-mac/Downloads/AndroidMQTTDemo-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/libs/internal_impl-24.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="/Users/rj-mac/Downloads/AndroidMQTTDemo-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.0-b6507c14fe46ba353c1598ab673fe7334b1821be.jar" />
+    </item>
+    <item
+        jar="/Users/rj-mac/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.0/8a23146e1a8c7cb4758e3d3f62449213f1e51f67/support-annotations-24.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/Users/rj-mac/Downloads/AndroidMQTTDemo-master/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.0-70dbf729dd0bb546a8ada89570c2cd09d750571b.jar" />
+    </item>
+    <item
+        jar="/Users/rj-mac/Downloads/AndroidMQTTDemo-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="/Users/rj-mac/Downloads/AndroidMQTTDemo-master/app/build/intermediates/pre-dexed/debug/classes-67932e89b8c83341b86353d48f80a4104917434a.jar" />
+    </item>
+    <item
+        jar="/Users/rj-mac/Downloads/AndroidMQTTDemo-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="/Users/rj-mac/Downloads/AndroidMQTTDemo-master/app/build/intermediates/pre-dexed/debug/classes-3e15cada957ae9073346a034fb307a368493ad30.jar" />
+    </item>
+
+</items>
